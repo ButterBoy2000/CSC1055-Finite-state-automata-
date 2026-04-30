@@ -11,7 +11,7 @@ ghci
 2. two ways to test the code, you could either manually run it (i'll insert test cases bellow) or copy and past this in the FA file
 
 
-## Non-manial testing 
+## Non-manual testing 
 
 paste this underneath FA.hs
 type :reload FA
